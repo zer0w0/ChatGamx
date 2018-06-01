@@ -1,7 +1,7 @@
 {
   "ads": [
       {
-          "id": "1",
+          "id": 1,
           "title": "习近平视察军事科学院1",
           "mtime": 1526544899,
           "topic": [
@@ -10,7 +10,7 @@
           "imgsrc": "https://dummyimage.com/900x300/efefef/fff.jpg&text=DUMMY_1"
       },
       {
-          "id": "2",
+          "id": 2,
           "title": "习近平视察军事科学院2",
           "mtime": 1526544899,
           "topic": [
@@ -19,7 +19,7 @@
           "imgsrc": "https://dummyimage.com/900x300/efefef/fff.jpg&text=DUMMY_2"
       },
       {
-          "id": "3",
+          "id": 3,
           "title": "习近平视察军事科学院3",
           "mtime": 1526544899,
           "topic": [
@@ -91,6 +91,7 @@
             }
     ],
     docDetail: {
+            id:1,
             "docid": 1,
             "title": "习近平视察军事科学院",
             "mtime": 1526544899,
