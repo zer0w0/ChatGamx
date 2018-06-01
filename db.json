@@ -90,152 +90,151 @@
                 "imgsrc": "https://dummyimage.com/400x300/efefef/fff.jpg&text=SIX"
             }
     ],
-    docDetail: {
-            id:1,
-            "docid": 1,
-            "title": "习近平视察军事科学院",
-            "mtime": 1526544899,
-            "topic": [
-                "欧元",
-                "外汇"
-            ],
-            "imgsrc": "http://cms-bucket.nosdn.127.net/19670f7dfc3f4f54a25f34a6c370f7bc20180517111134.png",
-            "content":"<p>而对于从2015年6月9日开始定投的那个例子，由于在定投期间总体年化累计收益率的最大值为9.75%，未能触发10%的止盈线，此时沪深300指数投资占整个资产的比例达到了85.76%，导致2018年1月底市场发生回撤时，总体收益率也发生了较大的回撤。如果把止盈线设置为9.5%时，总体累计收益率从15.75%提升到28.02%，年化收益从5.25%提升到9.02%，当然，这样做有点儿事后诸葛亮了。<br/></p><img class=\"ke_img\" src=\"https://xqimg.imedao.com/1636c25ff4c2dc623fe1ce54.png!custom.jpg\" ><p>所以<b >，在不确定沪深</b><b >300</b><b >指数点位在趋势的什么位置的时候，采用定投的方式投资是比较稳妥的选择。</b>如果手头有5万块钱，想做点华夏沪深300ETF联接A（000051）定投的话可以这样操作：<br/></p>  <p>1、预估定投期限，例如：3年；</p>  <p>2、确定定投频率，例如：每月；</p>  <p>3、估算出每次定投的金额；</p>  <p>4、将5万块钱买成华夏活期通；</p>",
-            "read": 1111,
-            "voted_count":111,
-            "comment":34,
-            share:{}
-    },
-    "comments": [
-            {
-                "id": 1,
-                "docid": 1,
-                "create_at": 1526542467000,
-                "voted": false,
-                "votecount": 22,
-                "user": {
-                    "userid": "234243224242",
-                    "name": "test1",
-                    "avatar_url": "http://xxx.jpg"
-                },
-                "description": "这里是评论内容",
-                "replay_comment": {
+  "docDetail": {
+          "id":1,
+          "docid": 1,
+          "title": "习近平视察军事科学院",
+          "mtime": 1526544899,
+          "topic": [
+              "欧元",
+              "外汇"
+          ],
+          "imgsrc": "http://cms-bucket.nosdn.127.net/19670f7dfc3f4f54a25f34a6c370f7bc20180517111134.png",
+          "content":"<p>而对于从2015年6月9日开始定投的那个例子，由于在定投期间总体年化累计收益率的最大值为9.75%，未能触发10%的止盈线，此时沪深300指数投资占整个资产的比例达到了85.76%，导致2018年1月底市场发生回撤时，总体收益率也发生了较大的回撤。如果把止盈线设置为9.5%时，总体累计收益率从15.75%提升到28.02%，年化收益从5.25%提升到9.02%，当然，这样做有点儿事后诸葛亮了。<br/></p><img class=\"ke_img\" src=\"https://xqimg.imedao.com/1636c25ff4c2dc623fe1ce54.png!custom.jpg\" ><p>所以<b >，在不确定沪深</b><b >300</b><b >指数点位在趋势的什么位置的时候，采用定投的方式投资是比较稳妥的选择。</b>如果手头有5万块钱，想做点华夏沪深300ETF联接A（000051）定投的话可以这样操作：<br/></p>  <p>1、预估定投期限，例如：3年；</p>  <p>2、确定定投频率，例如：每月；</p>  <p>3、估算出每次定投的金额；</p>  <p>4、将5万块钱买成华夏活期通；</p>",
+          "read": 1111,
+          "voted_count":111,
+          "comment":34,
+          "share":{}
+  },
+  "comments": [
+          {
+              "id": 1,
+              "docid": 1,
+              "create_at": 1526542467000,
+              "voted": false,
+              "votecount": 22,
+              "user": {
+                  "userid": "234243224242",
+                  "name": "test1",
+                  "avatar_url": "http://xxx.jpg"
+              },
+              "description": "这里是评论内容",
+              "replay_comment": {
 
-                }
-            }
-            {
-                "id": 2,
-                "docid": 1,
-                "create_at": 1526542467000,
-                "voted": false,
-                "votecount": 22,
-                "user": {
-                    "userid": "234243224242",
-                    "name": "test1",
-                    "avatar_url": "http://xxx.jpg"
-                },
-                "description": "这里是评论内容",
-                "replay_comment": {
-
-                }
-            }
-            {
-                "id": 3,
-                "docid": 2,
-                "create_at": 1526542467000,
-                "voted": false,
-                "votecount": 22,
-                "user": {
-                    "userid": "234243224242",
-                    "name": "test1",
-                    "avatar_url": "http://xxx.jpg"
-                },
-                "description": "这里是评论内容",
-                "replay_comment": {
-
-                }
-            }
-            {
-                "id": 4,
-                "docid": 2,
-                "create_at": 1526542467000,
-                "voted": false,
-                "votecount": 22,
-                "user": {
-                    "userid": "234243224242",
-                    "name": "test1",
-                    "avatar_url": "http://xxx.jpg"
-                },
-                "description": "这里是评论内容",
-                "replay_comment": {
-
-                }
-            }
-    ],
-    users:[
-      {
-       "nickname": "James",
-       "name": "test1",
-       "useraccount": "138xxxxxxxx",
-       "fox_id": "12345678",
-       "avatar_url": "https://dummyimage.com/200x200/efefef/fff.jpg&text=James",
-       "gender": "0",
-       "brithday": "2000-01-10",
-       "live_region": {
-               "province_id": 20,
-               "city_id": 152,
-               "city_name": "巴彦淖尔市",
-               "short_name": "巴彦淖尔"
-           },
-       "followed":false,
-       "created_at": 1526542467000,
-       "updated_at": 1526542467000,
-       "last_ip": "114.114.114.114",
-       "privacy": 1,
-       "privacy_info": {
-           "industry": 2,
-           "company_nature": 1,
-           "work_region": {
-               "province_id": 20,
-               "city_id": 152,
-               "city_name": "巴彦淖尔市",
-               "short_name": "巴彦淖尔"
-           },
-           "job": "策划",
-           "work_experience": "3-5年"
-       }
-     },
-     {
-      "nickname": "jr",
-      "name": "test2",
-      "useraccount": "138xxxxxxxx",
-      "fox_id": "12345679",
-      "avatar_url": "https://dummyimage.com/200x200/efefef/fff.jpg&text=jr",
-      "gender": "0",
-      "brithday": "2000-01-10",
-      "live_region": {
-              "province_id": 20,
-              "city_id": 152,
-              "city_name": "巴彦淖尔市",
-              "short_name": "巴彦淖尔"
+              }
           },
-      "followed":false,
-      "created_at": 1526542467000,
-      "updated_at": 1526542467000,
-      "last_ip": "114.114.114.114",
-      "privacy": 1,
-      "privacy_info": {
-          "industry": 2,
-          "company_nature": 1,
-          "work_region": {
-              "province_id": 20,
-              "city_id": 152,
-              "city_name": "巴彦淖尔市",
-              "short_name": "巴彦淖尔"
+          {
+              "id": 2,
+              "docid": 1,
+              "create_at": 1526542467000,
+              "voted": false,
+              "votecount": 22,
+              "user": {
+                  "userid": "234243224242",
+                  "name": "test1",
+                  "avatar_url": "http://xxx.jpg"
+              },
+              "description": "这里是评论内容",
+              "replay_comment": {
+
+              }
           },
-          "job": "策划",
-          "work_experience": "3-5年"
-      }
+          {
+              "id": 3,
+              "docid": 2,
+              "create_at": 1526542467000,
+              "voted": false,
+              "votecount": 22,
+              "user": {
+                  "userid": "234243224242",
+                  "name": "test1",
+                  "avatar_url": "http://xxx.jpg"
+              },
+              "description": "这里是评论内容",
+              "replay_comment": {
+
+              }
+          },
+          {
+              "id": 4,
+              "docid": 2,
+              "create_at": 1526542467000,
+              "voted": false,
+              "votecount": 22,
+              "user": {
+                  "userid": "234243224242",
+                  "name": "test1",
+                  "avatar_url": "http://xxx.jpg"
+              },
+              "description": "这里是评论内容",
+              "replay_comment": {
+
+              }
+          }
+  ],
+  "users":[
+    {
+     "nickname": "James",
+     "name": "test1",
+     "useraccount": "138xxxxxxxx",
+     "fox_id": "12345678",
+     "avatar_url": "https://dummyimage.com/200x200/efefef/fff.jpg&text=James",
+     "gender": "0",
+     "brithday": "2000-01-10",
+     "live_region": {
+             "province_id": 20,
+             "city_id": 152,
+             "city_name": "巴彦淖尔市",
+             "short_name": "巴彦淖尔"
+         },
+     "followed":false,
+     "created_at": 1526542467000,
+     "updated_at": 1526542467000,
+     "last_ip": "114.114.114.114",
+     "privacy": 1,
+     "privacy_info": {
+         "industry": 2,
+         "company_nature": 1,
+         "work_region": {
+             "province_id": 20,
+             "city_id": 152,
+             "city_name": "巴彦淖尔市",
+             "short_name": "巴彦淖尔"
+         },
+         "job": "策划",
+         "work_experience": "3-5年"
+     }
+   },
+   {
+    "nickname": "jr",
+    "name": "test2",
+    "useraccount": "138xxxxxxxx",
+    "fox_id": "12345679",
+    "avatar_url": "https://dummyimage.com/200x200/efefef/fff.jpg&text=jr",
+    "gender": "0",
+    "brithday": "2000-01-10",
+    "live_region": {
+            "province_id": 20,
+            "city_id": 152,
+            "city_name": "巴彦淖尔市",
+            "short_name": "巴彦淖尔"
+        },
+    "followed":false,
+    "created_at": 1526542467000,
+    "updated_at": 1526542467000,
+    "last_ip": "114.114.114.114",
+    "privacy": 1,
+    "privacy_info": {
+        "industry": 2,
+        "company_nature": 1,
+        "work_region": {
+            "province_id": 20,
+            "city_id": 152,
+            "city_name": "巴彦淖尔市",
+            "short_name": "巴彦淖尔"
+        },
+        "job": "策划",
+        "work_experience": "3-5年"
     }
-  ]
+  }]
 }
