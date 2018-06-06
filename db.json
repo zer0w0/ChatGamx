@@ -99,7 +99,7 @@
               "欧元",
               "外汇"
           ],
-          "imgsrc": "http://cms-bucket.nosdn.127.net/19670f7dfc3f4f54a25f34a6c370f7bc20180517111134.png",
+          "imgsrc": "http://cms-bucket.nosdn.127.net/19670f7dfc3f4f54a25f34a6c370f7bc20180517111134.jpeg",
           "content":"<p>而对于从2015年6月9日开始定投的那个例子，由于在定投期间总体年化累计收益率的最大值为9.75%，未能触发10%的止盈线，此时沪深300指数投资占整个资产的比例达到了85.76%，导致2018年1月底市场发生回撤时，总体收益率也发生了较大的回撤。如果把止盈线设置为9.5%时，总体累计收益率从15.75%提升到28.02%，年化收益从5.25%提升到9.02%，当然，这样做有点儿事后诸葛亮了。<br/></p><img class=\"ke_img\" src=\"https://xqimg.imedao.com/1636c25ff4c2dc623fe1ce54.png!custom.jpg\" ><p>所以<b >，在不确定沪深</b><b >300</b><b >指数点位在趋势的什么位置的时候，采用定投的方式投资是比较稳妥的选择。</b>如果手头有5万块钱，想做点华夏沪深300ETF联接A（000051）定投的话可以这样操作：<br/></p>  <p>1、预估定投期限，例如：3年；</p>  <p>2、确定定投频率，例如：每月；</p>  <p>3、估算出每次定投的金额；</p>  <p>4、将5万块钱买成华夏活期通；</p>",
           "read": 1111,
           "voted_count":111,
@@ -114,11 +114,11 @@
               "voted": false,
               "votecount": 22,
               "user": {
-                  "userid": "234243224242",
+                  "userid": "1",
                   "name": "test1",
-                  "avatar_url": "http://xxx.jpg"
+                  "avatar_url": "https://dummyimage.com/400x300/efefef/fff.jpg&text=test1"
               },
-              "description": "这里是评论内容",
+              "description": "这里是评论内容，绝对是",
               "replay_comment": {
 
               }
@@ -130,11 +130,11 @@
               "voted": false,
               "votecount": 22,
               "user": {
-                  "userid": "234243224242",
-                  "name": "test1",
-                  "avatar_url": "http://xxx.jpg"
+                  "userid": "2",
+                  "name": "test2",
+                  "avatar_url": "https://dummyimage.com/400x300/efefef/fff.jpg&text=test2"
               },
-              "description": "这里是评论内容",
+              "description": "这里是评论内容，是吧",
               "replay_comment": {
 
               }
@@ -146,11 +146,11 @@
               "voted": false,
               "votecount": 22,
               "user": {
-                  "userid": "234243224242",
-                  "name": "test1",
-                  "avatar_url": "http://xxx.jpg"
+                  "userid": "3",
+                  "name": "test3",
+                  "avatar_url": "https://dummyimage.com/400x300/efefef/fff.jpg&text=test3"
               },
-              "description": "这里是评论内容",
+              "description": "这里是评论内容，是不是",
               "replay_comment": {
 
               }
@@ -162,11 +162,11 @@
               "voted": false,
               "votecount": 22,
               "user": {
-                  "userid": "234243224242",
-                  "name": "test1",
-                  "avatar_url": "http://xxx.jpg"
+                  "userid": "4",
+                  "name": "test4",
+                  "avatar_url": "https://dummyimage.com/400x300/efefef/fff.jpg&text=test4"
               },
-              "description": "这里是评论内容",
+              "description": "这里是评论内容，好像是",
               "replay_comment": {
 
               }
